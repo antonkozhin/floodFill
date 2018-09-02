@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FloodFill</string>
+
+    <string name="size">Size</string>
+    <string name="generate">Generate</string>
+    <string name="speed">Speed</string>
+    <string name="error.algorithm">Algorithm error</string>
+    <string name="wait">Wait…</string>
+    <string name="width">width</string>
+    <string name="height">height</string>
+    <string name="error.width">Max width %1$d</string>
+    <string name="error.height">Max height %1$d</string>
+
+    <string-array name="algorithms_array">
+        <item>non recursive</item>
+        <item>queue</item>
+        <item>recursive(bad)</item>
+    </string-array>
+
+</resources>
